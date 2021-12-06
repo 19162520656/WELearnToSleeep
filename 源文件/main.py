@@ -9,7 +9,7 @@ from typing import Any, Dict, List, Union
 import requests
 
 
-def login():
+def login(19162520656):
     '''登录，cookie由session处理
 
     如果登录失败直接退出
